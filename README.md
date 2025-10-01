@@ -19,7 +19,7 @@
 ## 📂 Featured Projects
 - **[Cafe POS System](https://github.com/thetnaing-dh/Success-Cafe-POS)** – Advanced POS with Menu Images, Table Check-in, Member Discounts, Reports (C#.NET + SQLite).  
 - **[Myanmar Unicode Typing Tutor](https://github.com/thetnaing-dh/Myanmar-Unicode-Typing-Tutor)** – Typing tutor with lessons, WPM tracking, error detection, and reports (C#.NET).  
-- **[Health Care Appointment System](https://github.com/one-project-one-month/HCAS)** – Appointment booking system using ASP.Net Web API, EF Core, Dapper & Blazor.
+- **[Health Care Appointment System](https://github.com/one-project-one-month/HCAS)** – Appointment booking system using ASP.Net Web API, EF Core, Dapper & Blazor.(On Going)
   
 ---
 
