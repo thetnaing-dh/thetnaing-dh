@@ -2,7 +2,7 @@
 
 💻 **Software Developer** specializing in C#.NET, ASP.NET Core, EF Core, SQL Server, and modern web technologies.  
 📍 Based in Myanmar | Seeking Software Engineer opportunities in **Bangkok, Thailand**.  
-🌱 Currently learning React, Node.js, TypeScript, and Python.  
+🌱 Currently learning React, Node.js and TypeScript.  
 🤝 Collaborating on: Healthcare Appointment System (Blazor + Web API) & HR Management System.  
 
 ---
